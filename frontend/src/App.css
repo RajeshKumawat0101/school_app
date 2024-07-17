@@ -1,0 +1,91 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+html {
+	scroll-behavior: smooth;
+
+	/* Variables For Storing Colors */
+	--primary-clr: #CDF5FD;
+	--primary-medium-clr: #d8e9df;
+	--bg-clr-1: #ffffff;
+	--dark-heading-clr: #232d39;
+	--dark-text-clr: #6c757d;
+	--light-heading-clr: #2c2255;
+	--light-text-clr: #cecece;
+}
+
+/*   === Global Styling Starts ===   */
+button.btn {
+	padding: 10px 18px;
+	background-color: var(--light-heading-clr);
+	color: #fff;
+	
+	font-size: 15px;
+	border: 1px solid transparent;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: all 0.3s;
+}
+
+button.btn:hover {
+	background-color: white;
+	color: #2c2255;
+	border: 1px solid var(--primary-clr);
+}
+
+.section-header h1 {
+	position: relative;
+	font-size: 32px;
+	letter-spacing: 1px;
+	color: #2c2255;
+	margin-bottom: 20px;
+}
+
+.section-header h1::before {
+	position: absolute;
+	content: '';
+	width: 100px;
+	height: 1px;
+	left: 0;
+	top: calc(100% + 5px);
+	background-color: var(--dark-text-clr);
+}
+
+.section-header h1::after {
+	position: absolute;
+	content: '';
+	width: 50px;
+	height: 3px;
+	left: 0;
+	top: calc(100% + 4px);
+	background-color: #2c2255;
+}
+
+.section-header p {
+	color: var(--dark-text-clr);
+	margin-bottom: 40px;
+	max-width: 700px;
+}
+
+/*   === Global Styling Ends ===   */
+body {
+	width: 100%;
+
+	max-width: 2000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.website-container {
+	width: 100%;
+	max-width: 100%;
+
+	margin: 0px auto;
+}
+
+

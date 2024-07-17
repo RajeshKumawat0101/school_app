@@ -1,0 +1,103 @@
+
+[{
+     "id":1,
+     "name":"jee main",
+     "class":"11th+12th and Droper",
+     "title":"this is a title book ",
+     "subject":"physice chemistry  math",
+     "language":"hindi+ english",
+     "duration":"1 year",
+     "price":0,
+     "Desc":"JEE (Main+Advanced) Courses builds strong subject knowledge and problem-solving skills tohelp aspirants ace the exams to get enrolled into IITs.",
+     "catagory":"free",
+     "image": "https://st.depositphotos.com/1741875/1237/i/450/depositphotos_12376816-stock-photo-stack-of-old-books.jpg" ,
+      "link":"https://res.cloudinary.com/deaaextex/video/upload/v1720596442/vedio_kxg7qo.mp4"
+},{
+    "id":2,
+    "name":"jeemain+Advance and Droper",
+    "class":"11th + 12th",
+    "title":"this is a title book ",
+    "Desc":"JEE (Main+Advanced) Courses builds strong subject knowledge and problem-solving skills tohelp aspirants ace the exams to get enrolled into IITs.",
+    "subject":"physice chemistry  math",
+    "language":"hindi+ english",
+    "duration":"1 year",
+    "price":0,
+    "catagory":"free",
+    "image": "https://st.depositphotos.com/1741875/1237/i/450/depositphotos_12376816-stock-photo-stack-of-old-books.jpg",
+    "link":"https://res.cloudinary.com/deaaextex/video/upload/v1720596442/vedio_kxg7qo.mp4"
+
+},{
+    "id":3,
+    "name":"neet",
+    "class":"11th + 12th and Droper",
+    "title":"this is a title book ",
+    "Desc":"NEET Courses builds strong subject knowledge and problem-solving skills tohelp aspirants ace the exams to get enrolled into IITs.",
+    "subject":"physice chemistry  bio",
+    "language":"hindi+ english",
+    "duration":"1 year",
+    "price":0,
+    "catagory":"free",
+    "image": "https://st.depositphotos.com/1741875/1237/i/450/depositphotos_12376816-stock-photo-stack-of-old-books.jpg",
+    "link":"https://res.cloudinary.com/deaaextex/video/upload/v1720596442/vedio_kxg7qo.mp4"
+
+
+},{
+    "id":4,
+    "name":"neet",
+    "class":"11th + 12th",
+    "title":"this is a title book ",
+    "price":10000,
+    "Desc":"NEET Courses builds strong subject knowledge and problem-solving skills tohelp aspirants ace the exams to get enrolled into IITs.",
+    "subject":"physice chemistry  bio",
+    "language":"hindi+ english",
+    "duration":"1 year",
+    "catagory":"paid",
+    "image": "https://st.depositphotos.com/1741875/1237/i/450/depositphotos_12376816-stock-photo-stack-of-old-books.jpg",
+    "link":"https://res.cloudinary.com/deaaextex/video/upload/v1720596442/vedio_kxg7qo.mp4"
+
+
+},{
+    "id":5,
+    "name":"neet",
+    "class":" Droper",
+    "title":"this is a title book ",
+    "Desc":"NEET Courses builds strong subject knowledge and problem-solving skills tohelp aspirants ace the exams to get enrolled into IITs.",
+    "subject":"physice chemistry  bio",
+    "language":"hindi+ english",
+    "duration":"1 year",
+    "price":10000,
+    "catagory":"paid",
+    "image": "https://st.depositphotos.com/1741875/1237/i/450/depositphotos_12376816-stock-photo-stack-of-old-books.jpg",
+    "link":"https://res.cloudinary.com/deaaextex/video/upload/v1720596442/vedio_kxg7qo.mp4"
+
+
+},{
+    "id":6,
+    "name":"jee main +Advance",
+    "class":"11th + 12th",
+    "title":"this is a title book ",
+    "Desc":"JEE (Main+Advanced) Courses builds strong subject knowledge and problem-solving skills tohelp aspirants ace the exams to get enrolled into IITs.",
+    "subject":"physice chemistry  math",
+    "language":"hindi+ english",
+    "duration":"1+2 year",
+    "price":10000,
+    "catagory":"paid",
+    "image": "https://st.depositphotos.com/1741875/1237/i/450/depositphotos_12376816-stock-photo-stack-of-old-books.jpg",
+    "link":"https://res.cloudinary.com/deaaextex/video/upload/v1720596442/vedio_kxg7qo.mp4"
+
+
+},{
+    "id":7,
+    "name":"jee main +Advance",
+    "class":" Droper",
+    "title":"this is a title book ",
+    "Desc":"JEE (Main+Advanced) Courses builds strong subject knowledge and problem-solving skills tohelp aspirants ace the exams to get enrolled into IITs.",
+    "subject":"physice chemistry  math",
+    "language":"hindi+ english",
+    "duration":"1 year",
+    "price":10000,
+    "catagory":"paid",
+    "image": "https://st.depositphotos.com/1741875/1237/i/450/depositphotos_12376816-stock-photo-stack-of-old-books.jpg",
+    "link":"https://res.cloudinary.com/deaaextex/video/upload/v1720596442/vedio_kxg7qo.mp4"
+}
+]

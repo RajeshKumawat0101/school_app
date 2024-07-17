@@ -1,0 +1,57 @@
+.container1{
+    width: 640px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: darkcyan;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    border-radius: 10px;
+    padding: 40px 50px;
+}
+.container1 hr{
+    height: 2px;
+    border: none;
+    background-color: black;
+}
+.container1 h2{
+    font-size: 27px;
+    font-weight: 500;
+}
+.container1 ul div label{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    padding-left: 15px;
+    /* border: 1px solid blueviolet; */
+    margin-bottom: 30px;
+    margin-top: 25px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.input-redio{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.container1 button{
+    margin: auto;
+    width: 250px;
+    height: 65px;
+    background-color: brown;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.container1 .index{
+    margin: auto;
+    font-size: 18px;
+}
+.container1 .correct{
+    background-color: darkcyan;
+}
+.container1 .wrong{
+    background-color:  darkcyan;
+
+}

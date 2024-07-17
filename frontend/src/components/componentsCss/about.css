@@ -1,0 +1,21 @@
+section.instructor {
+	width: 100%;
+	padding: 20px 8% 20px;
+}
+/* w-full m-72 px-5 py-5 mx-8 */
+.instructor .instructor-container {
+	width: 100%;
+	padding: 70px 8%;
+	background: #CDF5FD;
+	border-radius: 0px 100px 0px 100px;
+}
+
+.instructor-container h2 {
+	font-size: 24px;
+	color: #2c2255;
+}
+
+.instructor-container p {
+	margin: 20px 0px 35px;
+	color: #000;
+}
